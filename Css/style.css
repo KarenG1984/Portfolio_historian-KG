@@ -286,11 +286,12 @@ footer hr {
     display: flex;
     flex-direction: column;
   }
+  .aboutme__resume,
   .book__title {
     margin: 15px;
   }
   .experience {
-    margin: 25px;
+    margin: 25px 55px;
   }
   .wrap {
     max-width: 60%;
