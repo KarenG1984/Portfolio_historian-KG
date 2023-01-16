@@ -264,12 +264,12 @@ footer hr {
 /* /Footer */
 
 /* Responsive */
-@media (max-width:768px){
+@media screen and (max-width: 768px) {
   .header__text  h1 {
     font-size: 3.5rem;
   }
 }
-@media (max-width: 320px) {
+@media screen and (max-width: 320px) {
   .header__text {
     padding: 15px;
   }
