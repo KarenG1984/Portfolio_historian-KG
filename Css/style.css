@@ -115,7 +115,7 @@ body h2, h3, p, a {
 /* Book */
 .book {
   margin: 35px 0;
-  padding: 15px 0;
+  padding: 35px 0;
   background-color: var(--sand);
 }
 .book__content {
@@ -275,11 +275,15 @@ footer hr {
     padding: 15px;
   }
   .header__text  h1 {
-    font-size: 2.5rem;
+    font-size: 3rem;
   }
   .sidebar {
     height: 250px;
     width: 120px;
+  }
+  .aboutme__resume p,
+  .book__abstract p {
+    font-size: 1.8rem;
   }
   .aboutme__content,
   .book__content {
@@ -290,17 +294,28 @@ footer hr {
   .book__title {
     margin: 15px;
   }
+  .book__title {
+    font-size: 1.8rem;
+  }
   .experience {
     margin: 25px 55px;
   }
   .wrap {
     max-width: 60%;
   }
-  /* .wrap li .date {
-    float: right;
-  } */
+  .wrap li .date {
+    font-size: 1.6rem;
+  }
+  .wrap li .lab {
+    font-size: 1.8rem;
+  }
+  .wrap li .content p {
+    font-size: 1.6rem;
+  }
   input:checked ~ .content {
     width: 200px;
     padding-left: 10px;
   }
 }
+
+/* karengomezhistoriadora */
