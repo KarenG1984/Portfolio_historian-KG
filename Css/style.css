@@ -1,13 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Special+Elite&display=swap');
 
 :root {
-  --blue: #5687A6;
-  --maroon: #401A12;
+  /*--blue: #5687A6;*/
+  --blue: #fcbf49;
+  /*--maroon: #401A12;*/
+  --maroon: #003049;
 
   --white: #FDFEFE;
   --black: #000000;
 
-  --gold-brown: #795300;
+  /*--gold-brown: #795300;*/
+  --gold-brown: #003049;
   --sand: #F7F4F2;
 
   --principal-font: 'Poppins', sans-serif;
